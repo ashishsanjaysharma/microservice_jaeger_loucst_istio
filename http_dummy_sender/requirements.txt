@@ -1,0 +1,7 @@
+requests==2.21.0
+Flask==0.12
+SQLAlchemy==1.2.10
+PyMySQL==0.7.11
+jaeger-client==4.1.0
+opentracing-instrumentation==3.2.1
+-e git+https://github.com/opentracing-contrib/python-flask.git@0.3.0#egg=flask_opentracing
