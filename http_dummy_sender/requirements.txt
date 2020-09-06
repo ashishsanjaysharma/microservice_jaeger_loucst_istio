@@ -1,5 +1,5 @@
 requests==2.21.0
-Flask==0.12
+Flask==1.0
 SQLAlchemy==1.2.10
 PyMySQL==0.7.11
 jaeger-client==4.1.0
